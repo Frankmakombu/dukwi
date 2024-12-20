@@ -60,7 +60,7 @@
             padding: 20px;
             max-width: 1200px;
             margin: auto;
-            background: #fff88;
+            background: #yellow;
         }
 
         .content h3 {
