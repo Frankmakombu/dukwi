@@ -117,7 +117,7 @@
     <section id="donate" class="content">
         <h3>Donate Now</h3>
         <p>Your support can change lives. Click below to make a secure donation today.</p>
-        <a class="donate-btn" href="https://secure-payment-link.example">Donate Now</a>
+        <a class="donate-btn" [[href="https://">Donate</a>](https://www.paypal.com/ncp/payment/ZCRXPR9C7TP6W)
     </section>
     <footer>
         <p>&copy; 2024 DonateToCongo.site | Designed with Purpose</p>
